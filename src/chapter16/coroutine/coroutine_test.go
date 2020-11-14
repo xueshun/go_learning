@@ -1,4 +1,4 @@
-package chapter16
+package coroutine
 
 import (
 	"fmt"
